@@ -50,7 +50,7 @@ The **Allow tracing** setting for the subscription used for your API must be ena
   :::image type="content" source="media/api-management-howto-api-inspector/06-debug-your-apis-01-trace-call.png" alt-text="Configure API tracing":::
 
 > [!TIP]
-> If **Ocp-Apim-Subscription-Key** isn't automatically populated in the HTTP request, you can retrieve it in the portal. Select **Subscriptions**, and open the context menu (**...**) for your suscription. Select **Show/hide keys**. You can also regenerate keys if needed. Then, add a key to the header.
+> If **Ocp-Apim-Subscription-Key** isn't automatically populated in the HTTP request, you can retrieve it in the portal. Select **Subscriptions**, and open the context menu (**...**) for your subscription. Select **Show/hide keys**. You can also regenerate keys if needed. Then, add a key to the header.
 
 ## Review trace information
 
